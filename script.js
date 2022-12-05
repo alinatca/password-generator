@@ -157,12 +157,12 @@ if (confirmUpperCase) {
 }
 
 
-// getPasswordOptions.addEventListener();
-
 function writePassword() {
+  var password = getPasswordOptions();
+  var passwordText = document.querySelector('#password');
 
+  passwordText.value = password;
 }
 
 generateBtn.addEventListener("click", writePassword);
-
 
