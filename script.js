@@ -170,7 +170,7 @@ function getPasswordOptions() {
 
   // Declaring an array to store the password characters from user
   var passwordCharacters = [];
-  // Creating an if statement and concatinate the user input with the specific character type
+  // Creating an if statement and using .concat add the user character type input into the array
   if (confirmSpecialCharacter) {
     passwordCharacters = passwordCharacters.concat(specialCharacters);
   }
