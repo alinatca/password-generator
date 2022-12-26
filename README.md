@@ -20,7 +20,7 @@ When all prompts are answered, the user will be presented with a password matchi
 
 ## Application details
 
-Here is the live URL: [https://alinatca.github.io/Password-Generator/](https://alinatca.github.io/Password-Generator/)
+Here is the live URL: [https://alinatca.github.io/password-generator/](https://alinatca.github.io/password-generator/)
 
 Here is a gif of the application: 
 
